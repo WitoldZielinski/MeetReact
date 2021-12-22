@@ -1,3 +1,5 @@
+Project was created as code-along to https://www.youtube.com/watch?v=Dorf8i6lCuk&t=549s
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
